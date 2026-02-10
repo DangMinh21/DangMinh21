@@ -43,7 +43,7 @@ I don't just train models; I build **scalable data engines** and **efficient arc
 
 ### 🌱 Current Research Focus
 I am actively benchmarking and researching the "Bleeding Edge" of Spatial AI to identify gaps in current architectures:
-* **Architectures:** SpatialVLM, RegionGPT, Osprey, N3D-VLM.
+* **Architectures:** SpatialVLM, SpatialRGPT, RegionGPT, Osprey, N3D-VLM.
 * **Techniques:** Geometric Grounding, 3D Scene Graph Generation, Visual Instruction Tuning.
 * **Data Engineering:** Automated synthetic data pipelines for cross-domain adaptation.
 
