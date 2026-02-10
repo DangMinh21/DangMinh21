@@ -4,7 +4,7 @@
 
 I am a researcher and engineer dedicated to **bridging the gap between academic theory and industrial reality**. My focus is on **Spatial Reasoning**—teaching AI not just to "see" (semantics) but to "perceive" (geometry/depth) in complex 3D environments like warehouses and autonomous systems.
 
-Currently, I am a Master's Candidate at **[HCMUT](https://hcmut.edu.vn/)**, optimizing Large Multimodal Models (LMMs) for high-precision tasks on edge and cloud infrastructure.
+Currently, I am a Master's Candidate at **[HCMUT](https://hcmut.edu.vn/)**, optimizing Large Multimodal Models (LMMs) for high-precision tasks on edge and real world problems.
 
 ---
 
