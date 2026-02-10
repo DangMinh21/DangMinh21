@@ -34,7 +34,7 @@ I don't just train models; I build **scalable data engines** and **efficient arc
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-blue) ![FlashAttention](https://img.shields.io/badge/FlashAttention-black) ![LLaMA-3](https://img.shields.io/badge/LLaMA--3-0467DF?style=flat)
 
 **Infrastructure & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-%23000000.svg?style=flat)
 
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
